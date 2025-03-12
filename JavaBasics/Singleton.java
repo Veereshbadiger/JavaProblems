@@ -1,3 +1,4 @@
+package JavaBasics;
 public class Singleton {
     // Private static instance variable
     private static Singleton instance = null;

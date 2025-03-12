@@ -1,3 +1,4 @@
+package JavaBasics;
 import java.util.HashMap;
 
 public class occuranceOfletterHashmap {
