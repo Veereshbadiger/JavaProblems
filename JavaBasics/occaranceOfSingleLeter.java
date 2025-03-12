@@ -1,3 +1,4 @@
+package JavaBasics;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 public class occaranceOfSingleLeter {

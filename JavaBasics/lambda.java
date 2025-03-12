@@ -1,3 +1,4 @@
+package JavaBasics;
 import java.util.function.BiConsumer;
 
 public class lambda {

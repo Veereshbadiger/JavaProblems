@@ -1,3 +1,4 @@
+package JavaBasics;
 import java.util.stream.IntStream;
 
 public class PrintAlternativeNumStream {
